@@ -17,3 +17,6 @@ No matter the format, settings are scoped to the individual user by storing int 
 ```
 Find out where the config is stored on mac when using configstore???
 ```
+
+Secure secrets
+Using `keytar` can help securely store secrets in a user's device irrespective of the OS.
